@@ -6,7 +6,6 @@ Vinod Sharma is a DevOps Engineer based in Chandigarh, India, with experience in
 I specialize in building scalable, reliable, and automated cloud infrastructure using modern DevOps best practices.
 
 ---
-
 ## 🛠️ Skills & Technologies
 - ☁️ Cloud: AWS
 - 🔁 CI/CD: Jenkins, GitHub Actions
